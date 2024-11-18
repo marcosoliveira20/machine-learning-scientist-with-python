@@ -32,4 +32,4 @@ jupyter notebook
 
 ## Recursos Adicionais
 
-- [Artigo sobre KNN](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)
+- [Artigo sobre KNN](https://www.ibm.com/br-pt/topics/knn)
